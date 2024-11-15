@@ -1,5 +1,4 @@
-This repo is the solution for the assignment of Fetch Rewards
-
+This repo is the solution for the assignment of Rewards Data into Database and answering analytics questions
 How to read the solution
 
 The final answers have been summarized in 2 files
